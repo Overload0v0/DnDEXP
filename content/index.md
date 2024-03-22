@@ -11,6 +11,7 @@ title: Introduction to "Behind the DM's Screen"
 >None of these documents or lore dumps are required readings at all. Its my belief that ITS FANTASY MIDDLE AGES it would not be expected for any random peasant to know the goings on of their own kingdom let alone global politics. We might know shit cause we are always watching the news and our phones, but not the stereotypical peasant.
 
 ### Session Links:
-| Fey and Fiends | Crowns and Sceptors(tbd) |
-| -------------- | ------------------------ |
-|                |                          |
+| Fey and Fiends                   | Crowns and Sceptors(tbd)            |
+| -------------------------------- | ----------------------------------- |
+| [[Fey and Fiends Recap]]         | [[Crown and Scepter Recap]]         |
+| [[Fey and Fiends Lore Document]] | [[Crown and Scepter Lore Document]] |
