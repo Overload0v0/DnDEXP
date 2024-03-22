@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🐉 Behind The DM's Screen v.01.2",
+    pageTitle: "🐉 Behind The DM's Screen v.01.3",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -22,7 +22,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
+        header: "Uncial Antiqua",
         body: "Source Sans Pro",
         code: "IBM Plex Mono",
       },
@@ -45,7 +45,7 @@ const config: QuartzConfig = {
           dark: "#ebebec",
           secondary: "#d10f22",
           tertiary: "#f2073e",
-          highlight: "rgba(193, 70, 70, 0.15)",
+          highlight: "rgba(143, 159, 169, 0.15)",
         },
       },
     },
