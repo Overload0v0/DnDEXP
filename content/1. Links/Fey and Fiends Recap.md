@@ -1,3 +1,6 @@
+________
+These Links were ripped straight from my private Vault, So some pictures and refrences won't work. I might update them in the future when I find the time and focus to handle it.
+
 | Session Num | Description                   | Link                                                            |
 | ----------- | ----------------------------- | --------------------------------------------------------------- |
 | 7. & 8.     | The Time Jump                 | [[Fixed and Redone]]                                            |
