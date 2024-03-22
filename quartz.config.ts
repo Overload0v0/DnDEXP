@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🐉 Behind The DM's Screen",
+    pageTitle: "🐉 Behind The DM's Screen v.01",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -43,7 +43,7 @@ const config: QuartzConfig = {
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#7b97aa",
+          secondary: "#d10f22",
           tertiary: "#f2073e",
           highlight: "rgba(193, 70, 70, 0.15)",
         },
