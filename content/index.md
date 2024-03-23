@@ -15,3 +15,10 @@ title: Introduction to "Behind the DM's Screen"
 | -------------------------------- | ----------------------------------- |
 | [[Fey and Fiends Recap]]         | [[Crown and Scepter Recap]]         |
 | [[Fey and Fiends Lore Document]] | [[Crown and Scepter Lore Document]] |
+____
+Change Log:
+
+| Version | Description                                                                                                                                                     |
+| ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 01.07   | Reorganized the Lore Pages, Introduced individual character Wiki-Pages, created a Link Table of NPCs/Cannon Events/Historical Lore. (NPC Pages Not Yet Written) |
+| 01.06 > | N/A                                                                                                                                                             |
