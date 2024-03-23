@@ -22,3 +22,8 @@ Change Log:
 | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 01.07   | Reorganized the Lore Pages, Introduced individual character Wiki-Pages, created a Link Table of NPCs/Cannon Events/Historical Lore. (NPC Pages Not Yet Written) |
 | 01.06 > | N/A                                                                                                                                                             |
+```Dev Notes & Future Plans
+- Implement PDF inclusions for seamless transfer
+- Excalidraw plugin for web (Have to pioneer some code)
+- if (The Above) doesn't work see about Excalidraw Exports
+```
