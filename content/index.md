@@ -20,6 +20,7 @@ Change Log:
 
 | Version | Description                                                                                                                                                     |
 | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 01.08   | Added LOTS of LORE for End of Days/ Crown and Scepter. Including Key Figures pages and lore regarding leadership                                                |
 | 01.07   | Reorganized the Lore Pages, Introduced individual character Wiki-Pages, created a Link Table of NPCs/Cannon Events/Historical Lore. (NPC Pages Not Yet Written) |
 | 01.06 > | N/A                                                                                                                                                             |
 |         | Have any Ideas Email me at garypsmith99@gmail.com                                                                                                               |

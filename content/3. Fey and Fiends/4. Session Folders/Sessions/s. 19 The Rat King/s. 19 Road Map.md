@@ -219,7 +219,7 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.4",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.25",
 	"elements": [
 		{
 			"type": "image",
@@ -480,8 +480,8 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 		},
 		{
 			"type": "text",
-			"version": 595,
-			"versionNonce": 2020535997,
+			"version": 597,
+			"versionNonce": 1968068366,
 			"isDeleted": false,
 			"id": "SgHRtQ4g",
 			"fillStyle": "solid",
@@ -490,18 +490,18 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -638.5715901890435,
+			"x": -612.1771199741997,
 			"y": -2862.3631224678165,
 			"strokeColor": "#6741d9",
 			"backgroundColor": "transparent",
-			"width": 532.5838623046875,
+			"width": 479.794921875,
 			"height": 45,
 			"seed": 432853322,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707795533045,
+			"updated": 1711174748392,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -513,7 +513,7 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"containerId": "sW0fv-e2KYgSgeCrvNPQk",
 			"originalText": " Session 19 The Morning After",
 			"lineHeight": 1.25,
-			"baseline": 32
+			"baseline": 37
 		},
 		{
 			"type": "embeddable",
@@ -554,7 +554,6 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 					"filenameVisible": false
 				}
 			},
-			"validated": true,
 			"scale": [
 				1,
 				1
@@ -625,8 +624,8 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 		},
 		{
 			"type": "text",
-			"version": 426,
-			"versionNonce": 1373206917,
+			"version": 428,
+			"versionNonce": 418540430,
 			"isDeleted": false,
 			"id": "kw77DWBp",
 			"fillStyle": "solid",
@@ -635,18 +634,18 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1560.772797342261,
+			"x": -1556.5402228793703,
 			"y": -2887.5546238395464,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 103.93194580078125,
+			"width": 95.466796875,
 			"height": 45,
 			"seed": 822017802,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705909736851,
+			"updated": 1711174748392,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -658,7 +657,7 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"containerId": "lXdC8-7fJycxq69GzebHp",
 			"originalText": "Recap",
 			"lineHeight": 1.25,
-			"baseline": 32
+			"baseline": 37
 		},
 		{
 			"type": "rectangle",
@@ -725,8 +724,8 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 		},
 		{
 			"type": "text",
-			"version": 514,
-			"versionNonce": 1366207467,
+			"version": 516,
+			"versionNonce": 16474126,
 			"isDeleted": false,
 			"id": "X7zdyU1S",
 			"fillStyle": "solid",
@@ -735,18 +734,18 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -516.4601105668256,
+			"x": -508.7178467728803,
 			"y": -2746.6059440982685,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 87.75991821289062,
+			"width": 72.275390625,
 			"height": 25,
 			"seed": 1219565194,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705909736851,
+			"updated": 1711174748393,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -758,7 +757,7 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"containerId": "1mZDwCus26OaRUkZjU357",
 			"originalText": "The Plot",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 21
 		},
 		{
 			"type": "rectangle",
@@ -800,8 +799,8 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 		},
 		{
 			"type": "text",
-			"version": 487,
-			"versionNonce": 573044363,
+			"version": 488,
+			"versionNonce": 1727492814,
 			"isDeleted": false,
 			"id": "lATJBHiN",
 			"fillStyle": "solid",
@@ -821,7 +820,7 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705909736851,
+			"updated": 1711174748399,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -837,8 +836,8 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 		},
 		{
 			"type": "arrow",
-			"version": 1375,
-			"versionNonce": 1691008349,
+			"version": 1379,
+			"versionNonce": 878155598,
 			"isDeleted": false,
 			"id": "edQJYTg82cQkh4CNelbVj",
 			"fillStyle": "solid",
@@ -860,7 +859,7 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707795463141,
+			"updated": 1711174748400,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -931,8 +930,8 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 		},
 		{
 			"type": "text",
-			"version": 584,
-			"versionNonce": 1089605381,
+			"version": 585,
+			"versionNonce": 883945998,
 			"isDeleted": false,
 			"id": "B1XEVf3v",
 			"fillStyle": "solid",
@@ -952,7 +951,7 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705909736851,
+			"updated": 1711174748402,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1010,8 +1009,8 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 		},
 		{
 			"type": "text",
-			"version": 730,
-			"versionNonce": 1279518309,
+			"version": 731,
+			"versionNonce": 1794173262,
 			"isDeleted": false,
 			"id": "NXYFEv5H",
 			"fillStyle": "solid",
@@ -1031,7 +1030,7 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705909736851,
+			"updated": 1711174748406,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1047,8 +1046,8 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 		},
 		{
 			"type": "arrow",
-			"version": 1344,
-			"versionNonce": 1276552925,
+			"version": 1348,
+			"versionNonce": 988366478,
 			"isDeleted": false,
 			"id": "_MpjykejVEx8Ge2sc8vqS",
 			"fillStyle": "solid",
@@ -1070,7 +1069,7 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707795463148,
+			"updated": 1711174748404,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1137,8 +1136,8 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 		},
 		{
 			"type": "text",
-			"version": 651,
-			"versionNonce": 269408523,
+			"version": 653,
+			"versionNonce": 883085902,
 			"isDeleted": false,
 			"id": "NdwISGEY",
 			"fillStyle": "solid",
@@ -1147,18 +1146,18 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 56.12033379008898,
+			"x": 61.20404350688585,
 			"y": -2638.6228898067743,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 158.39984130859375,
+			"width": 148.232421875,
 			"height": 25,
 			"seed": 1524013578,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705909736851,
+			"updated": 1711174748407,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1170,12 +1169,12 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"containerId": "uY5GQeEs_Pyj4x6GMhVCh",
 			"originalText": "Disguises Maybe",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 21
 		},
 		{
 			"type": "arrow",
-			"version": 1338,
-			"versionNonce": 2002899037,
+			"version": 1342,
+			"versionNonce": 205876686,
 			"isDeleted": false,
 			"id": "Taddx-4gAgfzcocj1F5kI",
 			"fillStyle": "solid",
@@ -1197,7 +1196,7 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707795463152,
+			"updated": 1711174748406,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1268,8 +1267,8 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 		},
 		{
 			"type": "text",
-			"version": 711,
-			"versionNonce": 1112794245,
+			"version": 712,
+			"versionNonce": 1122045198,
 			"isDeleted": false,
 			"id": "fsCvSOBr",
 			"fillStyle": "solid",
@@ -1289,7 +1288,7 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705909736851,
+			"updated": 1711174748408,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1353,8 +1352,8 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 		},
 		{
 			"type": "arrow",
-			"version": 1043,
-			"versionNonce": 1054981309,
+			"version": 1044,
+			"versionNonce": 1299142798,
 			"isDeleted": false,
 			"id": "0eOceI1lFSIbeytdjMFR9",
 			"fillStyle": "solid",
@@ -1376,7 +1375,7 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707795463155,
+			"updated": 1711174748407,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1405,8 +1404,8 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 		},
 		{
 			"type": "arrow",
-			"version": 1307,
-			"versionNonce": 2087001373,
+			"version": 1308,
+			"versionNonce": 525407950,
 			"isDeleted": false,
 			"id": "qtOpz1zSgKaKix-Wxz7NY",
 			"fillStyle": "solid",
@@ -1428,7 +1427,7 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707795463155,
+			"updated": 1711174748407,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1516,8 +1515,8 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 		},
 		{
 			"type": "text",
-			"version": 454,
-			"versionNonce": 1529667083,
+			"version": 456,
+			"versionNonce": 1573888398,
 			"isDeleted": false,
 			"id": "jP89W6nF",
 			"fillStyle": "solid",
@@ -1526,18 +1525,18 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1068.839810163504,
+			"x": -1049.0520446605742,
 			"y": -2227.944093795492,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 366.8997497558594,
+			"width": 327.32421875,
 			"height": 25,
 			"seed": 510372886,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705909736852,
+			"updated": 1711174748408,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1549,7 +1548,7 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"containerId": "qvXqkTrF8gtzbLBbPtNED",
 			"originalText": "Whats the Deal with Morgan Thomas",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 21
 		},
 		{
 			"type": "image",
@@ -1586,8 +1585,8 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 		},
 		{
 			"type": "text",
-			"version": 665,
-			"versionNonce": 1436214443,
+			"version": 666,
+			"versionNonce": 737106318,
 			"isDeleted": false,
 			"id": "W2WGhYDK",
 			"fillStyle": "solid",
@@ -1600,14 +1599,14 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"y": -2159.635909590232,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 690.8394775390625,
+			"width": 594.921875,
 			"height": 125,
 			"seed": 1756664650,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705909736852,
+			"updated": 1711174748324,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1619,7 +1618,7 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"containerId": null,
 			"originalText": "Morgan does not trust most Adults / She is quick witted and always\n    Resisting Authority. Borderline refuses to stay on the ship\n\n  _______________________________________\nMorgan's History: Ma died when I was young",
 			"lineHeight": 1.25,
-			"baseline": 118
+			"baseline": 121
 		},
 		{
 			"type": "rectangle",
@@ -1686,8 +1685,8 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 		},
 		{
 			"type": "text",
-			"version": 1092,
-			"versionNonce": 1646523883,
+			"version": 1094,
+			"versionNonce": 1283659278,
 			"isDeleted": false,
 			"id": "ElZCJjPk",
 			"fillStyle": "solid",
@@ -1696,18 +1695,18 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1063.8030221070242,
+			"x": -1051.5943886841726,
 			"y": -1097.5641202519068,
 			"strokeColor": "#9c36b5",
 			"backgroundColor": "transparent",
-			"width": 244.26025390625,
+			"width": 219.84298706054688,
 			"height": 32.577310618130554,
 			"seed": 1949781846,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705909736852,
+			"updated": 1711174748409,
 			"link": null,
 			"locked": false,
 			"fontSize": 26.061848494504446,
@@ -1719,7 +1718,7 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"containerId": "gvD8VycKJGFnyuo5Mb17o",
 			"originalText": "Getting The Engine",
 			"lineHeight": 1.25,
-			"baseline": 22
+			"baseline": 26
 		},
 		{
 			"type": "rectangle",
@@ -1794,7 +1793,6 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 					"filenameVisible": false
 				}
 			},
-			"validated": true,
 			"scale": [
 				1,
 				1
@@ -1894,8 +1892,8 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 		},
 		{
 			"type": "text",
-			"version": 1182,
-			"versionNonce": 1304402379,
+			"version": 1184,
+			"versionNonce": 1262709390,
 			"isDeleted": false,
 			"id": "Ab6oOstN",
 			"fillStyle": "solid",
@@ -1904,18 +1902,18 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1040.8124496934824,
+			"x": -1028.95433354358,
 			"y": -1828.2622289959158,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 179.05819702148438,
+			"width": 155.3419647216797,
 			"height": 32.577310618130554,
 			"seed": 763978582,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705909736852,
+			"updated": 1711174748409,
 			"link": null,
 			"locked": false,
 			"fontSize": 26.061848494504446,
@@ -1927,7 +1925,7 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"containerId": "OTVboiq5ieH8Tx2bByQ8w",
 			"originalText": "Guards Arrive",
 			"lineHeight": 1.25,
-			"baseline": 22
+			"baseline": 26
 		},
 		{
 			"type": "embeddable",
@@ -1968,7 +1966,6 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 					"filenameVisible": false
 				}
 			},
-			"validated": true,
 			"scale": [
 				1.0551274240068524,
 				1.0551274240068524
@@ -1976,8 +1973,8 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 		},
 		{
 			"type": "text",
-			"version": 91,
-			"versionNonce": 635447403,
+			"version": 92,
+			"versionNonce": 1349996114,
 			"isDeleted": false,
 			"id": "15QBn585",
 			"fillStyle": "solid",
@@ -1990,14 +1987,14 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"y": -1817.994095826658,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 262.65985107421875,
+			"width": 208.056640625,
 			"height": 50,
 			"seed": 96042134,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705909736852,
+			"updated": 1711174748324,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2009,12 +2006,12 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"containerId": null,
 			"originalText": "         Escape Mechanics\n",
 			"lineHeight": 1.25,
-			"baseline": 43
+			"baseline": 46
 		},
 		{
 			"type": "text",
-			"version": 1613,
-			"versionNonce": 1172645829,
+			"version": 1614,
+			"versionNonce": 271120334,
 			"isDeleted": false,
 			"id": "fzuBgbPL",
 			"fillStyle": "solid",
@@ -2027,14 +2024,14 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"y": -1764.4109870152686,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 366.7997741699219,
+			"width": 314.4609375,
 			"height": 400,
 			"seed": 496916810,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705909736852,
+			"updated": 1711174748324,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2046,7 +2043,7 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"containerId": null,
 			"originalText": "Rushing past the Guards: As you begin to\nSlink your way up through the rubble, you \nspy a Cart full of hay with no mule. You \nnotice the only thing stopping this cart from\nsliding down the City is a well placed rock\nAn idea similar to that of Cobbleton crosses\nyour minds\n\nTalk It OUT: Stepping out of the rubble \nyou see a large phalanx has surrounded the\nfront of the building, each of these men\nwear shiny armor with blue & Gold heraldry.\nAt the front of the line Stars you recognize\na familiar face, Your former bodyguard when\nyou lived with your father. A little bit older\nthan you jet black hair, Clayton Alabaster.\nAnd tho he is but a few years older than\nyou, his face shows a lifetime of hardship.\n\"Mr. Envictus. The hells are you doing here.   \n",
 			"lineHeight": 1.25,
-			"baseline": 394
+			"baseline": 396
 		},
 		{
 			"type": "image",
@@ -2141,8 +2138,8 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 		},
 		{
 			"type": "text",
-			"version": 222,
-			"versionNonce": 171424389,
+			"version": 223,
+			"versionNonce": 484291602,
 			"isDeleted": false,
 			"id": "i6caSHjF",
 			"fillStyle": "solid",
@@ -2155,14 +2152,14 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"y": -1812.0365504890967,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
-			"width": 246.17987060546875,
+			"width": 182.900390625,
 			"height": 50,
 			"seed": 141599382,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705909736852,
+			"updated": 1711174748324,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2174,7 +2171,7 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"containerId": null,
 			"originalText": "         Plagues & Rots\n",
 			"lineHeight": 1.25,
-			"baseline": 43
+			"baseline": 46
 		},
 		{
 			"type": "rectangle",
@@ -2212,8 +2209,8 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 		},
 		{
 			"type": "text",
-			"version": 1260,
-			"versionNonce": 1187520997,
+			"version": 1262,
+			"versionNonce": 609787662,
 			"isDeleted": false,
 			"id": "IQexN7Hp",
 			"fillStyle": "solid",
@@ -2222,18 +2219,18 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 240.06838848447615,
+			"x": 242.80818798398786,
 			"y": -1829.0692982469322,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
-			"width": 85.58097839355469,
+			"width": 80.10137939453125,
 			"height": 32.577310618130554,
 			"seed": 1587469258,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705909736852,
+			"updated": 1711174748409,
 			"link": null,
 			"locked": false,
 			"fontSize": 26.061848494504446,
@@ -2245,12 +2242,12 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"containerId": "nEWzn3wrPQx36ilmvs03i",
 			"originalText": "Sewers",
 			"lineHeight": 1.25,
-			"baseline": 22
+			"baseline": 26
 		},
 		{
 			"type": "text",
-			"version": 2038,
-			"versionNonce": 45030123,
+			"version": 2039,
+			"versionNonce": 1880411662,
 			"isDeleted": false,
 			"id": "zCIYCkCL",
 			"fillStyle": "solid",
@@ -2263,14 +2260,14 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"y": -1771.5466158891818,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
-			"width": 351.2638244628906,
+			"width": 320.34375,
 			"height": 520,
 			"seed": 1146988874,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705909736852,
+			"updated": 1711174748324,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2282,7 +2279,7 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"containerId": null,
 			"originalText": "           Con Saves 15 or higher\n-------------------------------------------------\n1. Filth Fever: Your hands begin to shake,\nyour brow sweats, the world becomes dizzy,\nas you puke bile from the depths of your \ngut, you know you are with fever. \n   (Str -1) (Dis Adv on all Str Checks) \n  (-5 Maximum Hp each day you suffer)\n\n2. Hag Rot: This morning you awake with a \nblack Tendril circle on your chest spreading\nfrom where your heart is located\n(Can not regain HP unless by magical means)\n\n3. Sewer Plague: The Next day you have to\nbe jostled awake, no matter how much you \nsleep you feel utterly exhausted. Not to\nmention your eyes are horribly red from \nstrain      (1 lvl of Exhaustion)\n\n4. Sovereign spawn: Immediatly you notice\nsmall mushrooms appear on your body.\n(+1 Repour spores) \nHp reduces by 1d10 each day, replaced with\nequal amount Temp Hp, when this number is \nreduced to 0, PC becomes Sovereign.",
 			"lineHeight": 1.25,
-			"baseline": 514
+			"baseline": 516
 		},
 		{
 			"type": "image",
@@ -2356,7 +2353,6 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 					"filenameVisible": false
 				}
 			},
-			"validated": true,
 			"scale": [
 				1,
 				1
@@ -2455,8 +2451,8 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 		},
 		{
 			"type": "text",
-			"version": 464,
-			"versionNonce": 2139152075,
+			"version": 465,
+			"versionNonce": 1659986386,
 			"isDeleted": false,
 			"id": "EoL6vjHo",
 			"fillStyle": "solid",
@@ -2469,14 +2465,14 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"y": -2725.8164992409434,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 157.7119140625,
+			"width": 136.2890625,
 			"height": 120,
 			"seed": 302396036,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705909736853,
+			"updated": 1711174748324,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2488,7 +2484,7 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"containerId": null,
 			"originalText": "It appears that \nstars is more \ninterested in\ntalking his way out \nas opposed to \nhidding",
 			"lineHeight": 1.25,
-			"baseline": 114
+			"baseline": 116
 		},
 		{
 			"type": "rectangle",
@@ -2628,8 +2624,8 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 		},
 		{
 			"type": "text",
-			"version": 197,
-			"versionNonce": 1303210309,
+			"version": 199,
+			"versionNonce": 806007694,
 			"isDeleted": false,
 			"id": "XYAMyhAi",
 			"fillStyle": "solid",
@@ -2638,18 +2634,18 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2310.248882469264,
+			"x": 2319.1104013291274,
 			"y": -2906.574213799961,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
-			"width": 203.43592834472656,
+			"width": 185.712890625,
 			"height": 45,
 			"seed": 2141223556,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705910226110,
+			"updated": 1711174748409,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -2661,7 +2657,7 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"containerId": "xh_awGgYEHs7riNhlMcSr",
 			"originalText": "Elias Mourn",
 			"lineHeight": 1.25,
-			"baseline": 32
+			"baseline": 37
 		},
 		{
 			"type": "rectangle",
@@ -2699,8 +2695,8 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 		},
 		{
 			"type": "text",
-			"version": 199,
-			"versionNonce": 1427765413,
+			"version": 201,
+			"versionNonce": 1419880462,
 			"isDeleted": false,
 			"id": "GA5tEZPO",
 			"fillStyle": "solid",
@@ -2709,18 +2705,18 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2345.988667326503,
+			"x": 2348.975941496425,
 			"y": -2809.81547254122,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
-			"width": 119.91595458984375,
+			"width": 113.94140625,
 			"height": 270,
 			"seed": 317869500,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705910226112,
+			"updated": 1711174748409,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -2732,12 +2728,12 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"containerId": "PyXoMbBRPitiqi4oG7IvX",
 			"originalText": "History\n\n\n\n\n",
 			"lineHeight": 1.25,
-			"baseline": 257
+			"baseline": 262
 		},
 		{
 			"type": "text",
-			"version": 1095,
-			"versionNonce": 2020782789,
+			"version": 1096,
+			"versionNonce": 145480782,
 			"isDeleted": false,
 			"id": "29GGD0NK",
 			"fillStyle": "solid",
@@ -2750,14 +2746,14 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"y": -2751.2497879670796,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
-			"width": 578.8636474609375,
+			"width": 535.25,
 			"height": 160,
 			"seed": 1210218812,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705909741051,
+			"updated": 1711174748324,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2769,7 +2765,7 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"containerId": null,
 			"originalText": "An urchin most his life Alias Found work as a mercenary as a young man.\nAs he was nearing adulthood he was contracted for work by then rebel \nleader Sol Invictus. He began guarding Sol's son Stars. When Sol rose to\npower it only strengthened his resolve to protect Stars at all cost. \nHis soul purpose in life was to protect him, Then 1 month ago Stars\nDissappeared. With no where to look Sol set his gaze on Elias subjecting\nhim to cruel punishment, ended with Banishment. He can only be redeamed\nthe day he brings Stars Home. ",
 			"lineHeight": 1.25,
-			"baseline": 154
+			"baseline": 156
 		},
 		{
 			"type": "image",
@@ -2868,8 +2864,8 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 		},
 		{
 			"type": "text",
-			"version": 184,
-			"versionNonce": 763668549,
+			"version": 185,
+			"versionNonce": 231298962,
 			"isDeleted": false,
 			"id": "L3vxAlCx",
 			"fillStyle": "solid",
@@ -2882,14 +2878,14 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"y": -2510.4138436330754,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
-			"width": 179.6759033203125,
+			"width": 170.6484375,
 			"height": 45,
 			"seed": 1942607932,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705909741051,
+			"updated": 1711174748324,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -2901,12 +2897,12 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"containerId": null,
 			"originalText": "Discription",
 			"lineHeight": 1.25,
-			"baseline": 32
+			"baseline": 37
 		},
 		{
 			"type": "text",
-			"version": 2075,
-			"versionNonce": 1437685669,
+			"version": 2076,
+			"versionNonce": 264708750,
 			"isDeleted": false,
 			"id": "M8OVAJhl",
 			"fillStyle": "solid",
@@ -2919,14 +2915,14 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"y": -2460.629844028345,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
-			"width": 559.3116455078125,
+			"width": 500.0390625,
 			"height": 320,
 			"seed": 660917252,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705909741051,
+			"updated": 1711174748324,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2938,7 +2934,7 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"containerId": null,
 			"originalText": "Standing on the dock looking up at your vessel everything feels right\nin the world. until you hear the clinking of metal stomping closer and\ncloser. Stars its too late as you look over your shoulder to see a \nKnight in full plated armor GRAB YOU by the back of you neck lifting \nyou off the ground shouting in your face \"HOW DARE YOU\"\n\nElias Mourn Formely Sir Elias Mourn of the Golden Sands. Yet no \nlonger, Now I am Elias Mourn rambling shambling lunatic scouring the \nworld for an inconsiderate prince. \n\nPulling off his Helmet you see a Pale Teifling with dark black eyes\nand whispy white hair. Those his eyes are black, his pupils are the\ndullest shade of gray that allow for a great deal of expresion purely\nto those who know where to look. \n\"I stood over you when you would sleep in the park, because the \nPalace haunted you so\"",
 			"lineHeight": 1.25,
-			"baseline": 314
+			"baseline": 316
 		},
 		{
 			"type": "rectangle",
@@ -2971,8 +2967,8 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 		},
 		{
 			"type": "rectangle",
-			"version": 748,
-			"versionNonce": 123564413,
+			"version": 749,
+			"versionNonce": 982349390,
 			"isDeleted": false,
 			"id": "APtgLH0xyfyhsENi--8Jx",
 			"fillStyle": "solid",
@@ -2981,7 +2977,7 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1833.1302926549758,
+			"x": 1833.130292654976,
 			"y": -692.5801444002636,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
@@ -2999,14 +2995,14 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 					"id": "fWocr7eU"
 				}
 			],
-			"updated": 1707795463177,
+			"updated": 1711174748409,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1213,
-			"versionNonce": 401417163,
+			"version": 1215,
+			"versionNonce": 501398222,
 			"isDeleted": false,
 			"id": "fWocr7eU",
 			"fillStyle": "solid",
@@ -3015,18 +3011,18 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2091.5699585455013,
+			"x": 2093.657399036224,
 			"y": -674.9474659089847,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
-			"width": 221.56201171875,
+			"width": 217.3871307373047,
 			"height": 32.577310618130554,
 			"seed": 292391740,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705909736854,
+			"updated": 1711174748410,
 			"link": null,
 			"locked": false,
 			"fontSize": 26.061848494504446,
@@ -3038,7 +3034,7 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"containerId": "APtgLH0xyfyhsENi--8Jx",
 			"originalText": "Picking up Morgan",
 			"lineHeight": 1.25,
-			"baseline": 22
+			"baseline": 26
 		},
 		{
 			"type": "rectangle",
@@ -3141,7 +3137,6 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 					"filenameVisible": false
 				}
 			},
-			"validated": true,
 			"scale": [
 				1,
 				1
@@ -3285,7 +3280,6 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 					"filenameVisible": false
 				}
 			},
-			"validated": true,
 			"scale": [
 				1,
 				1
@@ -3522,8 +3516,8 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 		},
 		{
 			"type": "text",
-			"version": 1296,
-			"versionNonce": 250435365,
+			"version": 1298,
+			"versionNonce": 252763982,
 			"isDeleted": false,
 			"id": "wkCGcpDY",
 			"fillStyle": "solid",
@@ -3532,18 +3526,18 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 245.71493641045913,
+			"x": 264.12336841729507,
 			"y": -1121.294704816374,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 194.01661682128906,
+			"width": 157.1997528076172,
 			"height": 32.577310618130554,
 			"seed": 1756740587,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705909760651,
+			"updated": 1711174748410,
 			"link": null,
 			"locked": false,
 			"fontSize": 26.061848494504446,
@@ -3555,7 +3549,7 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"containerId": "naAZY4V6-iuhFXfOtH5zx",
 			"originalText": "The Day After",
 			"lineHeight": 1.25,
-			"baseline": 22
+			"baseline": 26
 		},
 		{
 			"type": "image",
@@ -3703,7 +3697,6 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 					"filenameVisible": false
 				}
 			},
-			"validated": true,
 			"scale": [
 				1,
 				1
@@ -3808,131 +3801,6 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 			"originalText": "Tips: avoid the dumb",
 			"lineHeight": 1.15,
 			"baseline": 25
-		},
-		{
-			"type": "arrow",
-			"version": 1370,
-			"versionNonce": 884119475,
-			"isDeleted": true,
-			"id": "bqRwb8nR8rC57eybCoYPM",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -546.308561262844,
-			"y": -2363.4587666575603,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
-			"width": 122.82350874434212,
-			"height": 1.6794741140661245,
-			"seed": 240560394,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1707795513804,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					122.82350874434212,
-					-1.6794741140661245
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 1289,
-			"versionNonce": 1410664797,
-			"isDeleted": true,
-			"id": "Vsk3qld84mRlAIvrIQBNN",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -114.91359408677133,
-			"y": -2361.198204703476,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"width": 60.34257893356716,
-			"height": 2.6794046282329873,
-			"seed": 2008853782,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1707795514797,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					60.34257893356716,
-					-2.6794046282329873
-				]
-			]
-		},
-		{
-			"id": "eJ9briEU",
-			"type": "text",
-			"x": -191.41336218341928,
-			"y": -2835.599666060857,
-			"width": 7.779296875,
-			"height": 32.199999999999996,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 777917981,
-			"version": 2,
-			"versionNonce": 1568565203,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1707795519942,
-			"link": null,
-			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 28,
-			"fontFamily": 2,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 25,
-			"containerId": null,
-			"originalText": "",
-			"lineHeight": 1.15
 		}
 	],
 	"appState": {
@@ -3950,10 +3818,10 @@ bee045eb11a004675c7154f46cd6176914a1729d: [[Pasted Image 20240119234124_582.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1227.4133621834194,
-		"scrollY": 3569.943416060857,
+		"scrollX": 4966.88955265961,
+		"scrollY": 4075.7447553465704,
 		"zoom": {
-			"value": 0.49999999999999994
+			"value": 0.15000000000000002
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
