@@ -18,8 +18,9 @@ aliases:
 | Spouse:   | Barten Blackwater              |
 ______________
 ###### History: 
-	Oolain, daughter of the mighty house Teravive, is one of the few nobility to volunteer front line service in Borovia's Army. For a decade Oolain remained in constant battle, The only thing keeping her sane was her connection to the church of light. At the end of her service, she was rewarded for her loyalty and piety with an earldom claim in Peratrease. With honor she accepted the position. She married the former ruler of Ogryn Keep Barten Blackwater. 
 
+Oolain, daughter of the mighty house Teravive, is one of the few nobility to volunteer front line service in Borovia's Army. For a decade Oolain remained in constant battle, The only thing keeping her sane was her connection to the church of light. At the end of her service, she was rewarded for her loyalty and piety with an earldom claim in Peratrease. With honor she accepted the position. She married the former ruler of Ogryn Keep Barten Blackwater. 
+_______
 ###### Rumors:
 	1. Oolain might be in some sort of romantic affair with Gallana Evermore... Why else would she be going this far for the inquisition 
 	2. Oolain Might invade Oriville
