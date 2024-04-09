@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🐉 Behind The DM's Screen v.01.08",
+    pageTitle: "🐉 Behind The DM's Screen v.01.08 Corban is a bitch",
     enableSPA: true,
     enablePopovers: true,
     analytics: {

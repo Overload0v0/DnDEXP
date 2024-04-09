@@ -25,5 +25,8 @@ _______
 	1. Oolain might be in some sort of romantic affair with Gallana Evermore... Why else would she be going this far for the inquisition 
 	2. Oolain Might invade Oriville
 	3. Oolain is secretly loyal to the Gaspard Bearatas in the Brovian Civil War
+____________
+#### Ideas: 
+1. Oolain might be harboring some sort of heretical knowledge or protecting something relating to schism if it gets out she will have consequences 
 ___
 ![[Pasted image 20240323005225.png]]
